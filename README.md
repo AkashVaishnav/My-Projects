@@ -1,4 +1,4 @@
-# My-Project
+# Web Development Project For Social-media
 
 The EdgeSocial Website is a social media website from where people
 can interact with others.
